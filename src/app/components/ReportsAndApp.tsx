@@ -3,7 +3,7 @@ import { CheckCircle2 } from 'lucide-react';
 import screenshortTop from '../../assets/icons/screenshort_top.svg';
 import screenshortBottom from '../../assets/icons/screenshort_bottom.svg';
 import mobileScreenshort from '../../assets/icons/mobile_screenshort.svg';
-import playstore from '../../assets/icons/playstore.svg';
+import playstore from '../../assets/icons/Playstore.svg';
 import appstore from '../../assets/icons/appstore.svg';
 
 export function ReportsAndApp() {
